@@ -50,7 +50,7 @@ services:
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - 
+
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
