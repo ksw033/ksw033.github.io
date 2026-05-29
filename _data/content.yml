@@ -50,7 +50,6 @@ services:
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-
 ### Skills [ skills ]
 skills:
   title: "Professional Skills"
@@ -111,12 +110,12 @@ resume:
         period: "2025-09-23"
         text: "공동주택의 IT 시스템에 대한 안전관리에 관한 자격증을 취득하였습니다."
 
-        name: "네트워크 관리사 2급"
+      - name: "네트워크 관리사 2급"
         subname: "한국정보통신자격협회"
         period: "2025-12-09"
         text: "네트워크 시스템의 운영 및 관리에 관한 자격증을 취득하였습니다."
 
-        name: "리눅스 마스터 2급"
+      - name: "리눅스 마스터 2급"
         subname: "한국정보통신진흥협회"
         period: "2025-12-13"
         text: "리눅스 시스템의 운영 및 관리에 관한 자격증을 취득하였습니다."
@@ -139,12 +138,12 @@ resume:
         period: "2025.09 - 2025.12"
         text: "AI를 이용한 산불 감지 및 예방 시스템 2026년 한국컴퓨터정보학회 동계학술대회 논문집 제 34권 1호 등재."
 
-        name: "춘계 종합학술대회 논문 발표"
+      - name: "춘계 종합학술대회 논문 발표"
         subname: "한국정보통신학회 2026년 춘계"
         period: "2026.04 - 2026.05"
         text: "WannaCry 랜섬웨어 : EternalBlue 취약점 분석 및 방어 전략 2026년 한국정보통신학회 춘계 종합학술대회 논문집 춘계 30권 1호 등재."
 
-        name: "2학년 과대표"
+      - name: "2학년 과대표"
         subname: "한국폴리텍대학 강서캠퍼스"
         period: "2026.03 - 2026.12"
         text: "학과 학생 대표로 학사 일정 관리 및 교수와 학생 간 가교 역할을 담당했습니다."
